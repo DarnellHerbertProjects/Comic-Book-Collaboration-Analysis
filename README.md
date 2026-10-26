@@ -4,7 +4,7 @@ Project Overview
 
 This project explores collaboration patterns between comic-book writers and pencilers to better understand how creators work together across comic-book issues.
 
-Objectives
+## Objectives
 
 Analyze collaborations between writers and pencilers.
 
@@ -14,7 +14,7 @@ Compare solo work with collaborative work.
 
 Present findings through data visualizations.
 
-Tools Used
+## Tools Used
 
 Microsoft Excel — Data organization and analysis
 
@@ -22,11 +22,11 @@ Data cleaning and transformation
 
 Tableau Public — Data visualization and dashboard development
 
-Data Preparation
+## Data Preparation
 
 The dataset was cleaned and prepared for analysis using Excel. Tasks included finding null values, removing duplicate writer/ penciler names, extracting issue numbers from issue titles, and organizing writer and penciler names for collaboration and solo analysis, remove columns from original Marvel Comics dataset that are unrelated to the thesis.
 
-Analysis
+## Analysis
 
 The project examines creator collaboration patterns and compares solo contributions with collaborative work. Visualizations were developed to communicate the results clearly.
 
