@@ -35,11 +35,8 @@ The project examines creator collaboration patterns and compares solo contributi
 See the final report and exploratory data analysis for the project's findings, data preparation process, and analysis.
 
 ## Project Documentation
-
 - [Marvel EDA](Marvel EDA.pdf)
-
 - [Marvel Comics Final Report](Marvel Comics Final Report.pdf)
-
 - [Marvel Datafolio](Marvel Datafolio.pdf)
 
 ## Visualizations
