@@ -51,4 +51,4 @@ Project Status
 Completed — data preparation, exploratory analysis, reporting, and dashboard development are complete.
 
 ## Connect with Me
-[LinkedIn Profile] 
+[LinkedIn Profile](https://www.linkedin.com/in/darnellherbert/)
