@@ -36,11 +36,11 @@ See the final report and exploratory data analysis for the project's findings, d
 
 ## Project Documentation
 
-[(Marvel EDA])
+[Marvel EDA]
 
-[(Marvel Comics Final Report)]
+[Marvel Comics Final Report]
 
-[(Marvel Datafolio)]
+[Marvel Datafolio]
 
 ## Visualizations
 [Marvel Dashboard Final — View on Tableau Public](https://public.tableau.com/app/profile/darnell.herbert/viz/MarvelDashboardFinal/MarvelComicDashboard)
