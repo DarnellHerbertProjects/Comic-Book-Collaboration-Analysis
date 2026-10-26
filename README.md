@@ -49,3 +49,6 @@ Explore the dashboard to see visualizations of comic-book creator collaborations
 Project Status
 
 Completed — data preparation, exploratory analysis, reporting, and dashboard development are complete.
+
+## Connect with Me
+[LinkedIn Profile] 
