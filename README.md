@@ -32,7 +32,15 @@ The project examines creator collaboration patterns and compares solo contributi
 
 Key Findings
 
-Jack Kirby/Stan Lee had the most collaborations at 86 total collaborations. Ron Frenz and Tom Defalco had the second most total collaborations at 58. John Byrne had the highest solo number, doing solo work on comics a total of 40 times. Jack Kirby had the highest Issue Count, at 66 total issues. John Byrne had the highest solo Issue Count at 33. The Amazing Spider-Man Annual had the longest Issue Duration at 54 years. The Incredible Hulk had the second longest Issue Duration at 37 years. The Amazing Spider-Man Annual also had the longest solo Issue Duration at 54 years. The Amazing Spider-Man Annual had both collaborations and solo work done on this issue over the 54 year span.
+See the final report and exploratory data analysis for the project's findings, data preparation process, and analysis.
+
+Project Documentation
+
+Marvel EDA
+
+Marvel Comics Final Report
+
+Marvel Datafolio
 
 Visualizations
 
@@ -40,4 +48,4 @@ Visualizations
 
 Project Status
 
-Completed 
+Completed — data preparation, exploratory analysis, reporting, and dashboard development are complete.
