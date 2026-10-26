@@ -44,8 +44,9 @@ Marvel Datafolio
 
 Visualizations
 
-(https://public.tableau.com/app/profile/darnell.herbert/viz/MarvelDashboardFinal/MarvelComicDashboard)
+View the Interactive Marvel Comic Dashboard on Tableau Public
 
+Explore the dashboard to see visualizations of comic-book creator collaborations and related analysis.
 Project Status
 
 Completed — data preparation, exploratory analysis, reporting, and dashboard development are complete.
