@@ -44,7 +44,7 @@ Marvel Datafolio
 
 Visualizations
 
-View the Interactive Marvel Comic Dashboard on Tableau Public
+Interactive Marvel Comic Dashboard — Tableau Public
 
 Explore the dashboard to see visualizations of comic-book creator collaborations and related analysis.
 Project Status
