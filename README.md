@@ -42,9 +42,9 @@ Marvel Comics Final Report
 
 Marvel Datafolio
 
-Visualizations
+## Visualizations
+[Marvel Dashboard Final — View on Tableau Public](https://public.tableau.com/app/profile/darnell.herbert/viz/MarvelDashboardFinal/MarvelComicDashboard)
 
-Marvel Dashboard Final — View on Tableau Public
 
 Explore the dashboard to see visualizations of comic-book creator collaborations and related analysis.
 Project Status
