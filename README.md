@@ -30,7 +30,7 @@ Analysis
 
 The project examines creator collaboration patterns and compares solo contributions with collaborative work. Visualizations were developed to communicate the results clearly.
 
-Key Findings
+## Key Findings
 
 See the final report and exploratory data analysis for the project's findings, data preparation process, and analysis.
 
